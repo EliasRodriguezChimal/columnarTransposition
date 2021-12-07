@@ -4,7 +4,7 @@
 
 ### Objective:
   
-  Create a UI for Columnar Transposition Cipher using Python, Tkinter, using 256 characters and modificable shift for different results
+  Create a UI for Columnar Transposition Cipher using Python, Tkinter, using base encode for Python.
   This is a transposition cipher which uses matrices to encrypt the data from a string received.
   
 ### UI: 
